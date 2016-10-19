@@ -1,0 +1,8 @@
+body {
+    background-image: url("images/space.jpg");
+    background-size: cover;
+}
+
+p {
+	color: white;
+}

@@ -1,0 +1,24 @@
+{
+  "name": "crafty",
+  "version": "1.0.0",
+  "description": "experiments with craftyjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigmickeystyle/crafty.git"
+  },
+  "author": "mike smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigmickeystyle/crafty/issues"
+  },
+  "homepage": "https://github.com/bigmickeystyle/crafty#readme",
+  "dependencies": {
+    "browserify": "^13.1.0",
+    "craftyjs": "^0.7.1",
+    "express": "^4.14.0"
+  }
+}
